@@ -1,3 +1,15 @@
-.ideal/
-*.iml
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+HELP.md
+springall.iml
+springbootandredis/src/main/resources/static/
+springbootandredis/src/main/resources/templates/
+src/main/resources/static/
+src/main/resources/templates/
 target/
